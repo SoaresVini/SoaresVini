@@ -1,20 +1,6 @@
 ## Olá!! Eu sou o Vinicius Soares
 
-<div align="center">
-  <a href="https://github.com/SoaresVini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoaresVini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresVini&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img align="right" alt="Vini-logo" height="150" style="border-radius:50px;" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/819.png">
-  <img align="center" alt="Vini-Delphi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" />
-  
+ 
 ##
  
 <div> 
