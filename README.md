@@ -1,7 +1,12 @@
 ## Olá!! Eu sou o Vinicius Soares
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresVini&layout=compact&langs_count=7&theme=github_dark"/>
+<div>
+
+  <img align="left"  width="47%" height="300" src="https://github-readme-stats.vercel.app/api?username=SoaresVini&show_icons=true&theme=github_dark" />
+  
+  <img align="left"  width="47%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresVini&layout=compact&langs_count=7&theme=github_dark"/>
+
+  
 </div>
  
  <div style="display: inline_block"><br>
