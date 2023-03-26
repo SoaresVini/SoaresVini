@@ -1,6 +1,9 @@
-## Olá!! Eu sou o Vinicius Soares
+## Hello!! My name is Vinicius Soares.
+
 # About Me:
-...............................................................................................................................
+Estudante de desenvolvimento de Software desde 2020, e  atualmente atuo suporte na eficácia sistema . A alguns anos sou um entusiasta da área de tecnologia e sempre estou buscando melhorar para me tornar um Full Stack. 
+
+Hoje meu foco em desenvolvimento é Java e Delphi , mas estou buscando conhecimento em Javascript e seus framework. Além de ter conhecimento em MYSQL e de Design Gráfico. 
 
 # GitHub Stats:
 
@@ -57,13 +60,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SoaresVini}/count.svg" /></p> 
 <br></div>
-  
-  
-  
-
-  
-  
-  
-  
-
-
