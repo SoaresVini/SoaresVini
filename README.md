@@ -1,7 +1,7 @@
 ## Hello!! My name is Vinicius Soares.
 
 # About Me:
-Estudante de desenvolvimento de Software desde 2020, e  atualmente atuo suporte na eficácia sistema . A alguns anos sou um entusiasta da área de tecnologia e sempre estou buscando melhorar para me tornar um Full Stack. 
+Estudante de desenvolvimento de Software desde 2020. A alguns anos sou um entusiasta da área de tecnologia e sempre estou buscando melhorar para me tornar um Full Stack. 
 
 Hoje meu foco em desenvolvimento é Java e Delphi , mas estou buscando conhecimento em Javascript e seus framework. Além de ter conhecimento em MYSQL e de Design Gráfico. 
 
