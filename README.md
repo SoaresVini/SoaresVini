@@ -3,7 +3,7 @@
 # About Me:
 Estudante de desenvolvimento de Software desde 2020. A alguns anos sou um entusiasta da área de tecnologia e sempre estou buscando melhorar para me tornar um Full Stack. 
 
-Hoje meu foco em desenvolvimento é Java e Delphi , mas estou buscando conhecimento em Javascript e seus framework. Além de ter conhecimento em MYSQL e de Design Gráfico. 
+Hoje meu foco em desenvolvimento Front-end utilizando typeScript e Angular, mas estudei java durante 2 anos e pretemdo voltar a estudar sprignBoot no futuro, além disso tenho conhecimento com MYSQL
 
 # GitHub Stats:
 
