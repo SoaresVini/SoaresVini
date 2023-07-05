@@ -43,6 +43,7 @@ Hoje meu foco em desenvolvimento é Java e Delphi , mas estou buscando conhecime
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-0D1117.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=0D1117)
 
