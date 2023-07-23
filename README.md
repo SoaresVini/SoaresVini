@@ -18,25 +18,25 @@ Hoje meu foco em desenvolvimento Front-end utilizando typeScript e Angular, mas 
 </div>
 
 # Main Skils:
-![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-0D1117.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=white) 
+![GIt](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 
 
 # Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
 ![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-  
-![UNITY](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![ANDROID STUDIO](https://img.shields.io/badge/android-0D1117?style=for-the-badge&logo=android&logoColor=%a4c639)
 
 # Other Knowledge:
@@ -48,10 +48,12 @@ Hoje meu foco em desenvolvimento Front-end utilizando typeScript e Angular, mas 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=0D1117)
 
 # Studying in this moment:
-![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-0D1117?style=for-the-badge&logo=reactivex&logoColor=white) 
+
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=white) 
 
 # Socials:
