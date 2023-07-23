@@ -1,9 +1,11 @@
 ## Hello!! My name is Vinicius Soares.
 
 # About Me:
-Estudante de desenvolvimento de Software desde 2020. A alguns anos sou um entusiasta da área de tecnologia e sempre estou buscando melhorar para me tornar um Full Stack. 
+Técnico em Informática - IFSC. 
 
-Hoje meu foco em desenvolvimento Front-end utilizando typeScript e Angular, mas estudei java durante 2 anos e pretemdo voltar a estudar sprignBoot no futuro, além disso tenho conhecimento com MYSQL
+Sou estudante de desenvolvimento de software desde 2020 e um entusiasta da área de tecnologia. Estou sempre buscando melhorar e aprender novas tecnologias.
+
+Atualmente, estou focado em estudar TypeScript e Angular, pois estou atuando com desenvolvimento front-end. Anteriormente, dediquei dois anos aos estudos em Java no curso técnico que realizei. Pretendo retornar, em algum momento, para aprofundar meus conhecimentos em Spring Boot ou em Node.js para desenvolvimento back-end
 
 # GitHub Stats:
 
