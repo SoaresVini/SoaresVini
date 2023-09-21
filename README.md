@@ -45,6 +45,7 @@ No momento estou focado em estudar TypeScript e Angular, pois estou atuando com 
 
 # Studying in this moment:
 ![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
+![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-0D1117?style=for-the-badge&logo=reactivex&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=white) 
