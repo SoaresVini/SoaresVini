@@ -33,7 +33,6 @@ No momento estou focado em estudar TypeScript e Angular, pois estou atuando com 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
 ![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Vercel](https://img.shields.io/badge/vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 
 # Other Knowledge:
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-0D1117.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
