@@ -4,8 +4,9 @@
 
 Sou formado no curso técnico integrado em Informática no IFSC campus Gaspar e estou estudando Análise e Desenvolvimento de Sistemas na Univali na modalidade EAD.
 
-No momento estou focado em estudar TypeScript e Angular, pois estou atuando com desenvolvimento front-end. Anteriormente, dediquei dois anos aos estudos em Java no curso técnico que realizei. Pretendo retornar, em algum momento, para aprofundar meus conhecimentos em Spring Boot ou em Node.js para desenvolvimento back-end
+Atualmente, estou focado no estudo de Ruby on Rails, pois estou atuando como desenvolvedor Back-end. Anteriormente, tive experiência como desenvolvedor Front-end com Angular na empresa onde atuo atualmente.
 
+Durante meu curso técnico, tive a oportunidade de estudar com algumas linguagens como Java, PHP, JavaScript, C e C++, mas meu maior interesse sempre foi o desenvolvimento web.
 # GitHub Stats:
 
   <div align="Center">
@@ -19,35 +20,31 @@ No momento estou focado em estudar TypeScript e Angular, pois estou atuando com 
 </div>
 
 # Main Skils:
-![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=white) 
+
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
-
-![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
 
 # Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
-![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=0D1117)
+![WebStorm](https://img.shields.io/badge/webstorm-0D1117?style=for-the-badge&logo=webstorm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 
 # Other Knowledge:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-0D1117.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=0D1117)
 
 # Studying in this moment:
-![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
-![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-0D1117?style=for-the-badge&logo=reactivex&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=white) 
+
+![Rails](https://img.shields.io/badge/rails-0D1117?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/atreta#9896)
