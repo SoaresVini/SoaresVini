@@ -2,7 +2,7 @@
 
 # About Me:
 
-Sou formado no curso técnico integrado em Informática no IFSC campus Gaspar e estou estudando Análise e Desenvolvimento de Sistemas na Univali na modalidade EAD.
+Sou formado no curso técnico integrado em Informática no IFSC campus Gaspar.
 
 Atualmente, estou focado no estudo de Ruby on Rails, pois estou atuando como desenvolvedor Back-end. Anteriormente, tive experiência como desenvolvedor Front-end com Angular na empresa onde atuo atualmente.
 
