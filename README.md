@@ -20,7 +20,7 @@ Durante meu curso técnico, tive a oportunidade de estudar com algumas linguagen
 </div>
 
 # Main Skils:
-
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
 ![Type script](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -40,9 +40,6 @@ Durante meu curso técnico, tive a oportunidade de estudar com algumas linguagen
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=0D1117)
 
 # Studying in this moment:
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-0D1117?style=for-the-badge&logo=reactivex&logoColor=white) 
-
 ![Rails](https://img.shields.io/badge/rails-0D1117?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
